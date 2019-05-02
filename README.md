@@ -14,7 +14,9 @@ incidentes registrados, o horário e o nível de lentidão do tráfego.
 classe '*bom/mau pagador*'. Além da realização da <ins>comparação de algoritmos</ins> de machine learning para o
 processo de <ins>classificação</ins>.
 
-**4. Base_PrecoCasas**: validação de template de <ins>automatização</ins> do processo de <ins>comparação de modelos de regressão</ins>.
+**4. Analise_Store**: <ins>análise de dados</ins> dos registros de <ins>vendas de materiais de escritório</ins> em países europeus.
 
-**5. Base_Iris** e **Base_Zoologico**: validação de template de <ins>automatização</ins> do processo de <ins>comparação de
+**5. Base_PrecoCasas**: validação de template de <ins>automatização</ins> do processo de <ins>comparação de modelos de regressão</ins>.
+
+**6. Base_Iris** e **Base_Zoologico**: validação de template de <ins>automatização</ins> do processo de <ins>comparação de
 modelos de classificação</ins> e combinação desses.
